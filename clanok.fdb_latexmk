@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex clanok"] 1633373384 "clanok.aux" "clanok.bbl" "clanok" 1633373387
+["bibtex clanok"] 1633373384 "clanok.aux" "clanok.bbl" "clanok" 1633374663
   "C:/Users/GOD69/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/alpha.bst" 1291868336 23907 a5f93555796fb564b924339521f10a7c ""
   "clanok.aux" 1633373386 3020 7ad90ce252f9ac01fb02ccfe6cfb733e "pdflatex"
   "literatura.bib" 1632758450 1636 511950f5c2e2247993c0ccf531988bc4 ""
   (generated)
   "clanok.bbl"
   "clanok.blg"
-["pdflatex"] 1633373385 "c:/Users/GOD69/LatexMip/clanok.tex" "clanok.pdf" "clanok" 1633373387
+["pdflatex"] 1633373385 "c:/Users/GOD69/LatexMip/clanok.tex" "clanok.pdf" "clanok" 1633374663
   "C:/Users/GOD69/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0600.pk" 1632757953 7284 e5ea9573fbd15c56d2b12da25ce822df ""
   "C:/Users/GOD69/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1632757945 11548 6ca2c7a8a0b78a5e96a9534dd7eeaafc ""
   "C:/Users/GOD69/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1632757970 14064 6a5677cb427a67801dc4d5628ac39ace ""
@@ -120,7 +120,7 @@
   "clanok.out" 1633373386 1182 5a2b09d9e639d1708c3147bff27fc164 "pdflatex"
   "clanok.tex" 1633372619 3481 ae9e39eefe69b7e4e20cb3102649d284 ""
   (generated)
-  "clanok.aux"
   "clanok.log"
-  "clanok.pdf"
+  "clanok.aux"
   "clanok.out"
+  "clanok.pdf"
